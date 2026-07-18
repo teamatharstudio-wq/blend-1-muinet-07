@@ -1,22 +1,14 @@
-# Dependencies
+.DS_Store
 node_modules/
-npm-debug.log
-npm-error.log
-
-# IDE
-.vscode/
-.idea/
+npm-debug.log*
+dist/
+build/
+.env
+.env.local
+.env.*.local
 *.swp
 *.swo
 *~
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Misc
-.env
-.env.local
-dist/
-build/
+.idea/
+.vscode/
 *.log
