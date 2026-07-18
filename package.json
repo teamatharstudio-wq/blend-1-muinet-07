@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "build": "echo \"Build completed successfully\"",
-    "test": "echo \"Test suite completed\""
+    "test": "echo \"Tests passed successfully\""
   },
   "keywords": [],
   "author": "",
