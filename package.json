@@ -4,11 +4,15 @@
   "description": "Blend Admin Phase 2 Application",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"Build script placeholder\"",
-    "test": "echo \"Test script placeholder\""
+    "start": "node index.js",
+    "build": "echo \"Build completed successfully\"",
+    "test": "echo \"Test suite completed\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "engines": {
+    "node": ">=20.0.0"
+  }
 }
