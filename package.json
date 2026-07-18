@@ -1,0 +1,14 @@
+{
+  "name": "blend-1-muinet-07",
+  "version": "1.0.0",
+  "description": "Blend Admin Phase 2 Application",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Build script placeholder\"",
+    "test": "echo \"Test script placeholder\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

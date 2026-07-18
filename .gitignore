@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+npm-debug.log
+npm-error.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+.env
+.env.local
+dist/
+build/
+*.log
